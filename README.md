@@ -2,11 +2,11 @@
     <img src="./assets/greetings.gif" alt="Hello World" />
 </p>
 <h1 align="center">
-    Hi <img src='./assets/wave.gif' height='26' alt='there'>, Ankit Kumar
+    Hi <img src='./assets/wave.gif' height='26' alt='there'>, Mostafa Chaoui
 </h1>
 
 <p align='center' style='margin: 16px 4px 8px;'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India" alt="Welcome to my GitHub Profile. I am a Passionate Full-Stack Software Developer from India." />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I+am+a+passionate+full-stack+software+engineer+from+India" alt="Welcome to my GitHub Profile. I am a Passionate Full-Stack Software Developer from Morocco." />
 </p>
 <h2></h2>
 <br>
@@ -15,9 +15,9 @@
 </p>
 <div align="left" style="width: 55%; font-size: 16px;">
     <p align='left'>🚀 Full Stack Developer | 🤖 AI/ML Learner | 🧙‍♂️ Tech Wizard</p>
-    <p align='left'>Hi there! 👋 I'm Ankit, a passionate Full Stack Developer and DevOps enthusiast, driven by a love for crafting efficient, scalable, and secure software solutions.</p>
+    <p align='left'>Hi there! 👋 I'm Mostafa, a passionate Full Stack Developer and DevOps enthusiast, driven by a love for crafting efficient, scalable, and secure software solutions.</p>
     <p align='left'>⚡ <strong>Fun fact: </strong>It is never too late to learn something.</p> 
-    <p align='left'>📫 <strong>How to reach me:</strong> ankitsingh40068@gmail.com</p> 
+    <p align='left'>📫 <strong>How to reach me:</strong> chaouid050@gmail.com</p> 
     <p align='left'> 🔗 <strong>Connect with me on LinkedIn: <a href="https://linkedin.com/in/ankit-kumar-2k21"  target="_blank">LinkedIn</a></strong></p> 
     <p align='left'>🔗 <strong>Visit my Portfoilo: <a href="https://ankitworks.netlify.app/"  target="_blank">Portfolio</a></strong></p>
     <br>
