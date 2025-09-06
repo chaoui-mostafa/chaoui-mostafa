@@ -13,7 +13,7 @@
 - 💻 Skilled in **Laravel, React.js, Node.js, Docker, Kubernetes, and CI/CD pipelines**.
 - 🌱 Currently exploring **AI, NLP, and Cloud Architecture**.
 - 🛠️ Working on **AI-powered Laravel management tools**.
-- 📩 Reach me at: **your-email@example.com**
+- 📩 Reach me at: **chaoui.dev@gmail.com**
 
 ---
 
