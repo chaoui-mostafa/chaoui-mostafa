@@ -40,8 +40,8 @@ Passionate Full Stack Developer and DevOps Engineer with expertise in building s
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chaoui-mostafa&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaoui-mostafa&theme=radical" height="180"/>
 </div>
 
 ## 📫 Contact
